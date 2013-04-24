@@ -1,0 +1,8 @@
+Tebak Angka
+
+Game ini dimainkan satu orang dan menebak angka sesuai dengan range atau jangkauan yang dipilih. Pilihan yang disediakan ada 1 - 10, 1 - 100, 1 - 1000. Pilihan ini sama seperti level pada umumnya dipakai pada setiap game. Tetapi level ini diganti dengan range atau jangkauan untuk menebak angka. 
+Untuk dapat berhasil menebak, masukkan 1 angka kemudian tekan 'ya'. Ketika selesai tekan 'ya' akan diberikan petunjuk jika angka yang ditentukan terlalu rendah dengan angka yang dimasukkan maka akan muncul keterangan "too low", jika terlalu tinggi maka akan muncul keterangan "too high". 
+Jika terlalu mudah gunakan range atau jangkauan yang tinggi (1 - 100 atau 1 - 1000).
+
+Keterangan:
+Ini adalah game pengganti dari game dahulu yaitu Pong Game, dimana Pong game tidak berhasil, maka di ganti game ini.
