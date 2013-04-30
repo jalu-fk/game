@@ -1,0 +1,21 @@
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\bin\Debug\Tebak Angka.exe.config
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\bin\Debug\Tebak Angka.exe
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\bin\Debug\Tebak Angka.pdb
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\bin\Debug\Tebak Angka.xml
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\obj\Debug\Tebak_Angka.Form1.resources
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\obj\Debug\Tebak_Angka.Resources.resources
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\obj\Debug\Tebak Angka.vbproj.GenerateResource.Cache
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\obj\Debug\Tebak Angka.exe
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\obj\Debug\Tebak Angka.xml
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka\Tebak Angka\obj\Debug\Tebak Angka.pdb
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\bin\Debug\Tebak Angka.exe.config
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\obj\Debug\Tebak Angka.exe
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\obj\Debug\Tebak Angka.xml
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\obj\Debug\Tebak Angka.pdb
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\bin\Debug\Tebak Angka.exe
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\bin\Debug\Tebak Angka.pdb
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\bin\Debug\Tebak Angka.xml
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\obj\Debug\Tebak_Angka.Home.resources
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\obj\Debug\Tebak_Angka.Main.resources
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\obj\Debug\Tebak_Angka.Resources.resources
+D:\Data Kuliah\Semester 4\Pemrograman Visual\Tebak Angka_1_2\Tebak Angka\obj\Debug\Tebak Angka.vbproj.GenerateResource.Cache
